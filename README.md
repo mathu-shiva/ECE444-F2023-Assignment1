@@ -14,3 +14,8 @@
 ![alt text](https://github.com/mathu-shiva/ECE444-F2023-Assignment1/blob/main/SS5.png)
 ![alt text](https://github.com/mathu-shiva/ECE444-F2023-Assignment1/blob/main/SS6.png)
 ![alt text](https://github.com/mathu-shiva/ECE444-F2023-Assignment1/blob/main/SS7.png)
+
+## Activity 5: Screenshots of Rebase and Git Log of Develop Branch
+![alt text](https://github.com/mathu-shiva/ECE444-F2023-Assignment1/blob/main/SS8.png)
+![alt text](https://github.com/mathu-shiva/ECE444-F2023-Assignment1/blob/main/SS9.png)
+![alt text](https://github.com/mathu-shiva/ECE444-F2023-Assignment1/blob/main/SS10.png)
